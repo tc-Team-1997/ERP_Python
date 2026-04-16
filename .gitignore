@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.venv/
+venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+.env
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Uploads (user data)
+uploads/
+
+# Jupyter / pydeck stray files
+etc/
+share/
+
+# OS
+.DS_Store
+Thumbs.db
